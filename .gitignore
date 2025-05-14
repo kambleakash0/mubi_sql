@@ -176,6 +176,7 @@ pyrightconfig.json
 # custom files and folders
 .DS_Store
 *.png
+*.db
 
 .vscode/
 data/
